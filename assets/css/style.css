@@ -1,0 +1,341 @@
+.body {
+    text-align: center;
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+    background-color: black;
+}
+
+.navegador {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 67px;
+    background-color: rgb(29, 155, 172);
+}
+
+.principal {
+    position: absolute;
+    height: 60%;
+    left: 9%;
+    top: 20%;
+}
+
+.textoicono {
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 155%;
+    color: aliceblue;
+    height: 60%;
+    left: 12%;
+    top: 33%;
+}
+
+.inicio {
+    color: aliceblue;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 120%;
+    height: 60%;
+    right: 37%;
+    top: 20%;
+}
+
+.quienessomos {
+    color: aliceblue;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 120%;
+    height: 60%;
+    right: 26%;
+    top: 20%;
+}
+
+.destacados {
+    color: aliceblue;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 120%;
+    height: 60%;
+    right: 17%;
+    top: 20%;
+}
+
+.contactos {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 120%;
+    height: 60%;
+    right: 9%;
+    top: 20%;
+}
+
+.carouselExample {
+    background-color: black;
+}
+
+.quienessomos2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0%;
+    height: 20%;
+}
+
+.fondo1 {
+    position: relative;
+    background-color: black
+}
+
+.linea1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 50%;
+    height: 2%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.container1 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    top: 0%;
+    height: 530px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.col1 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0%;
+    width: 33%;
+    height: 100%;
+
+}
+
+.iconoavion {
+    position: absolute;
+    margin-left: 20%;
+    margin-right: auto;
+    top: 0%;
+    width: 80%;
+    height: 10%;
+    background-color: rgb(10, 153, 153);
+}
+
+.cuadro1 {
+    position: absolute;
+    margin-left: 20%;
+    margin-right: auto;
+    top: 10%;
+    width: 80%;
+    height: 90%;
+
+}
+
+.textoavion {
+    font-family: "Roboto", sans-serif;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+}
+
+.col2 {
+    position: absolute;
+    margin-left: 33%;
+    margin-right: auto;
+    top: 0%;
+    width: 33%;
+    height: 100%;
+
+}
+
+.iconocuidado {
+    position: absolute;
+    margin-left: 8%;
+    margin-right: auto;
+    top: 0%;
+    width: 84%;
+    height: 10%;
+    background-color: rgb(10, 153, 153);
+}
+
+.cuadro2 {
+    position: absolute;
+    margin-left: 8%;
+    margin-right: auto;
+    top: 10%;
+    width: 84%;
+    height: 90%;
+
+}
+
+.textocuidado {
+    font-family: "Roboto", sans-serif;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.col3 {
+    position: absolute;
+    margin-left: 66%;
+    margin-right: auto;
+    top: 0%;
+    width: 33%;
+    height: 100%;
+
+}
+
+.iconoruta {
+    position: absolute;
+    margin-left: 0%;
+    margin-right: auto;
+    top: 0%;
+    width: 78%;
+    height: 10%;
+    background-color: rgb(10, 153, 153);
+}
+
+.cuadro3 {
+    position: absolute;
+    margin-left: 0%;
+    margin-right: auto;
+    top: 10%;
+    width: 80%;
+    height: 90%;
+
+}
+
+.textoruta {
+    font-family: "Roboto", sans-serif;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+}
+
+.fondo2 {
+    background-color: black;
+}
+
+.destacados2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0%;
+}
+
+.linea2 {
+    background-color: rgb(248, 245, 245);
+    font-size: 150%;
+    height: 2%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.fondo3 {
+    background-color: black;
+}
+
+.contactos2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 4%;
+}
+
+.linea3 {
+    background-color: rgb(255, 255, 255);
+    font-size: 150%;
+    height: 2%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.suscripcion {
+    position: relative;
+
+    font-family: "Roboto", sans-serif;
+    color: rgb(245, 245, 245);
+    margin-left: 5%;
+    margin-right: auto;
+    margin-top: auto;
+    width: 90%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+.botonenviar {
+    position: absolute;
+    margin-top: 3%;
+}
+
+
+.footer {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin-top: 13%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 60%;
+    background-color: rgb(10, 153, 153);
+}
+
+
+.textofinal {
+    font-family: "Roboto", sans-serif;
+    font-size: 130%;
+    color: aliceblue;
+    position: relative;
+    margin-left: 0%;
+    margin-top: 1%;
+}
+
+.icono1 {
+    margin-top: 0%;
+    margin-left: 4%;
+    margin-right: 0%;
+    font-size: 149%;
+    color: rgb(244, 246, 248);
+}
+
+.icono2 {
+    margin-left: 4%;
+    margin-right: 0%;
+    font-size: 149%;
+    margin-top: 0%;
+    color: rgb(244, 246, 248);
+    
+}
+
+.icono3 { 
+    margin-left: 4%;
+    margin-right: 0%;
+    font-size: 149%;
+    margin-top: 0%;
+    color: rgb(244, 246, 248);
+   
+}
+
+.icono4 {
+    margin-left: 4%;
+    margin-right: 11%;
+    font-size: 149%;
+    margin-top: 0%;
+    color: rgb(244, 246, 248);
+}
