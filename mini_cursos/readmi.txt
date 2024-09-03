@@ -1,0 +1,19 @@
+Nombre del Proyecto: Mini Cursos
+
+Requisitos:
+
+    Python 3.10+
+    PostgreSQL
+    Entorno Virtual 
+    Django 3.2.6
+    Bootstrap 5 
+    psycopg2
+
+Estructura del Proyecto:
+
+    mini_cursos/: Directorio principal del proyecto Django.
+    cursos/: Aplicación que gestiona los cursos, evaluaciones y usuarios.
+    templates/: Directorio que contiene las plantillas HTML.
+    static/: Archivos estáticos como CSS y JavaScript.
+    requirements.txt: Lista de dependencias del proyecto.
+    README.txt: Este archivo con instrucciones.
